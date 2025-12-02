@@ -1,3 +1,4 @@
+//to count total length of string with and wo space.
 #include <stdio.h>
 #include <string.h>  
 void lenCount(char*ptr,int *wospace,int*wspace)
